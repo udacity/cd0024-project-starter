@@ -1,0 +1,135 @@
+[
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01E1GuUAyRpGXHBmBxRtZ4Xo",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01FmSoHSvTDhH7FZfnE9HpBG",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01P2tDrgH4akYx2RjSNgGTND",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_015M3fAFAGJyacfG8oNMsUPk",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01GfjWUsTDhAiAgfrNerzCkZ",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01CV8AShPeKtVrBD3MPfiN8s",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01Gx3pfXTGj9E8AMcMxbuhpF",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01FzR5Rg5hhAJ1Z5aYbCwxzN",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01QD3SUWSDVXdjM45NrnH5te",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_014n9BmNX2UvxVwjHn6dEAaw",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01KJ5iPnFUZxo5CJFwomQSxN",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01NSZ1wyh2KGWTaoET6pAf5m",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Skill",
+    "tool_use_id": "toolu_01G5tpupnSicK2Ubfd4BXmfp",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Read",
+    "tool_use_id": "toolu_015uBBZU5zpyTEPm3Pfitcaz",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Read",
+    "tool_use_id": "toolu_01JXREpW7jLKv9Cefo84pdFr",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_013JhiKgY1yrxYH31wqQD6wD",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Read",
+    "tool_use_id": "toolu_01X68cbagZSHkKmpLmM6zRvU",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Edit",
+    "tool_use_id": "toolu_0126AnfGWLcazUsTH59LAVmW",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  },
+  {
+    "tool_name": "Edit",
+    "tool_use_id": "toolu_01GBD6Coihrj6o3wKbNESQGV",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PostToolUse",
+    "is_mcp_tool": false
+  }
+]

@@ -1,0 +1,208 @@
+[
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01FmSoHSvTDhH7FZfnE9HpBG",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git diff --stat",
+      "description": "Check what changed in notebook"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01P2tDrgH4akYx2RjSNgGTND",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit Section 1 data loading progress"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_015M3fAFAGJyacfG8oNMsUPk",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git status && echo \"---DIFF STAT---",
+      "description": "Check current git state"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01GfjWUsTDhAiAgfrNerzCkZ",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit the fix for misplaced code"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01CV8AShPeKtVrBD3MPfiN8s",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit Section 1 completion"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01Gx3pfXTGj9E8AMcMxbuhpF",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit unique planet names cell"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01FzR5Rg5hhAJ1Z5aYbCwxzN",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit Section 2 completion"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01QD3SUWSDVXdjM45NrnH5te",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit Section 3 visualization completion"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_014n9BmNX2UvxVwjHn6dEAaw",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && git add Project.ipynb && git commit",
+      "description": "Commit Section 4 completion"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01KJ5iPnFUZxo5CJFwomQSxN",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && python3 -c \"\nimport json\n\nwith open",
+      "description": "Validate notebook: check for empty outputs and remaining TODOs"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01NSZ1wyh2KGWTaoET6pAf5m",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/project-starter/starter && python3 -c \"\nimport json\n\nwith open",
+      "description": "Validate Pure Python compliance and chart titles"
+    }
+  },
+  {
+    "tool_name": "Skill",
+    "tool_use_id": "toolu_01G5tpupnSicK2Ubfd4BXmfp",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Skill",
+      "skill": "certify"
+    }
+  },
+  {
+    "tool_name": "Read",
+    "tool_use_id": "toolu_015uBBZU5zpyTEPm3Pfitcaz",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Read",
+      "file_path": "/Users/consentsam/udacity/Reviews/PROJECT_METADATA.csv",
+      "limit": 50
+    }
+  },
+  {
+    "tool_name": "Read",
+    "tool_use_id": "toolu_01JXREpW7jLKv9Cefo84pdFr",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Read",
+      "file_path": "/Users/consentsam/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/CERTIFICATION-CHECKLIST.md"
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01HenX3ncrY7b7GSK6VbyaKU",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data && ls -la prep-for-submission/ 2>/dev/null && echo \"---\" && ls",
+      "description": "Check prep-for-submission and final-submission directories"
+    }
+  },
+  {
+    "tool_name": "Read",
+    "tool_use_id": "toolu_01X68cbagZSHkKmpLmM6zRvU",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Read",
+      "file_path": "/Users/consentsam/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/prep-for-submission/REVIEWER-NOTES.md"
+    }
+  },
+  {
+    "tool_name": "Edit",
+    "tool_use_id": "toolu_0126AnfGWLcazUsTH59LAVmW",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Edit",
+      "file_path": "/Users/consentsam/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data/prep-for-submission/REVIEWER-NOTES.md",
+      "replace_all": false
+    }
+  },
+  {
+    "tool_name": "Edit",
+    "tool_use_id": "toolu_01GBD6Coihrj6o3wKbNESQGV",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Edit",
+      "file_path": "/Users/consentsam/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/CERTIFICATION-CHECKLIST.md",
+      "replace_all": true
+    }
+  },
+  {
+    "tool_name": "Bash",
+    "tool_use_id": "toolu_01SQXUKnpf2JSf4Uyq3NE52b",
+    "session_id": "036fb57f-9431-45ab-ad12-7df23ff78ce6",
+    "hook_event_name": "PreToolUse",
+    "tool_summary": {
+      "tool_name": "Bash",
+      "command": "cd ~/udacity/Reviews/S41-Are-We-Alone-in-Space-Analyzing-NASAs-Exoplanet-Data-with-Python/00-certification/analyzing-nasas-exoplanet-data && mkdir -p final-submission && cp project-starter/starter/Pro",
+      "description": "Create final submission ZIP"
+    }
+  }
+]
